@@ -1,3 +1,8 @@
+// curtainring.scad
+// Curtain Ring
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 rd = 70;         // Diameter of ring
 rt = 10;         // Thickness of ring
